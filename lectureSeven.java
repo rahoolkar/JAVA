@@ -5,12 +5,10 @@ class lectureSeven{
     //defining a function
     public static void printMyName(String name){
         System.out.println(name);
-        return ;
     }
     public static void addTwoNumbers(int a, int b){
         int c = a + b; 
         System.out.println(c);
-        return ;
     }
     public static int multiplyTwoNumbers(int a,int b){
         int product = a*b;
