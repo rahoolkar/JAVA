@@ -14,9 +14,9 @@ class lectureTen{
         marks[2] = 99;
 
         //we can also array like this
-        int [] numbers = {12,13,14};
+        //int [] numbers = {12,13,14};
 
-        System.out.println(marks);  //this will print the value of the adress memory of the marks array
+        //System.out.println(marks);  //this will print the value of the adress memory of the marks array
         
         for (int i = 0; i <3 ; i++) {
             System.out.println(marks[i]);
